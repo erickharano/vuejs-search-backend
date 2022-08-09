@@ -1,8 +1,8 @@
-# Project CRUD API CEP
+# Project Search
 
 ## Project setup
 ```
-npm install express sequelize mysql2 body-parser cors --save
+npm install
 ```
 
 ### Compiles 

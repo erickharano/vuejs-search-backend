@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
   res.json({ message: "Welcome to NodeJS Search application." });
 });
 
-// CEP routes
+// routes
 require("./app/routes/search.routes.js")(app);
 
 // set port, listen for requests
